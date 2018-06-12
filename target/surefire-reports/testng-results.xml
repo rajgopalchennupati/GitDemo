@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="36" started-at="2018-06-12T17:00:10Z" finished-at="2018-06-12T17:00:10Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="36" started-at="2018-06-12T17:00:10Z" finished-at="2018-06-12T17:00:10Z">
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@21bcffb5]" name="BrowserAutomation" duration-ms="8" started-at="2018-06-12T17:00:10Z" finished-at="2018-06-12T17:00:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="sendMail()[pri:0, instance:qaclickacademy.SeleniumTest@21bcffb5]" name="sendMail" duration-ms="0" started-at="2018-06-12T17:00:10Z" finished-at="2018-06-12T17:00:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendMail -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
